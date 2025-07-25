@@ -103,7 +103,7 @@ This project is licensed under the MIT License. See the [LICENSE](./LICENSE) fil
 
 **Quick Links**
 
-* [Use the Tool](https://endcode.omhackz.dev)
+* [Use the Tool](https://en-dcode.omhackz.dev)
 * [GitHub Repository](https://github.com/OmHackz-dev/EnDcode)
 * [About](https://github.com/OmHackz-dev/EnDcode#readme)
 
